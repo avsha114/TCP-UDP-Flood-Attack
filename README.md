@@ -6,9 +6,7 @@ Each packet is sent with a spoofed source IP address.
 
 You can choose between IPv4 or IPv6 attacks.
 
-This tools were written for learning purposes only.
-
-You must NOT use them for malicious purposes.
+These tools were written for learning purposes only. You must NOT use them for evil.
 
 # Requiremnts
 

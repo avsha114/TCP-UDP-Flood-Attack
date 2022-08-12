@@ -1,8 +1,10 @@
-#  TCP/UDP IPv4/IPv6 Flood Attackers
+#  TCP/UDP Flood Attackers
 
 'flood4' and 'flood6' are tools for attacking a target with TCP-RST or UDP flood attacks.
 
 Each packet is sent with a spoofed source IP address.
+
+You can choose between IPv4 or IPv6 attacks.
 
 This tools were written for learning purposes only.
 
